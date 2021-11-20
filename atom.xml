@@ -3,11 +3,11 @@
   <title>SunHao</title>
   
   <subtitle>SunHaoの博客</subtitle>
-  <link href="https://github.com/SunHao-AI/atom.xml" rel="self"/>
+  <link href="https://sunhao-ai.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/SunHao-AI/"/>
+  <link href="https://sunhao-ai.github.io/"/>
   <updated>2021-11-20T14:14:36.354Z</updated>
-  <id>https://github.com/SunHao-AI/</id>
+  <id>https://sunhao-ai.github.io/</id>
   
   <author>
     <name>SunHao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://github.com/SunHao-AI/posts/0.html"/>
-    <id>https://github.com/SunHao-AI/posts/0.html</id>
+    <link href="https://sunhao-ai.github.io/posts/0.html"/>
+    <id>https://sunhao-ai.github.io/posts/0.html</id>
     <published>2021-11-20T14:14:44.699Z</published>
     <updated>2021-11-20T14:14:36.354Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>我的测试博客</title>
-    <link href="https://github.com/SunHao-AI/posts/ae1d00f.html"/>
-    <id>https://github.com/SunHao-AI/posts/ae1d00f.html</id>
+    <link href="https://sunhao-ai.github.io/posts/ae1d00f.html"/>
+    <id>https://sunhao-ai.github.io/posts/ae1d00f.html</id>
     <published>2021-11-20T10:08:12.000Z</published>
     <updated>2021-11-20T11:35:01.369Z</updated>
     
@@ -51,8 +51,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/SunHao-AI/posts/4a17b156.html"/>
-    <id>https://github.com/SunHao-AI/posts/4a17b156.html</id>
+    <link href="https://sunhao-ai.github.io/posts/4a17b156.html"/>
+    <id>https://sunhao-ai.github.io/posts/4a17b156.html</id>
     <published>2021-11-20T10:06:46.882Z</published>
     <updated>2021-11-20T11:35:01.367Z</updated>
     
@@ -71,8 +71,8 @@
   
   <entry>
     <title>Markdown快速入门小技巧(hexo博客文章--格式用法)</title>
-    <link href="https://github.com/SunHao-AI/posts/15546.html"/>
-    <id>https://github.com/SunHao-AI/posts/15546.html</id>
+    <link href="https://sunhao-ai.github.io/posts/15546.html"/>
+    <id>https://sunhao-ai.github.io/posts/15546.html</id>
     <published>2021-06-21T08:00:00.000Z</published>
     <updated>2021-07-28T11:01:26.837Z</updated>
     
@@ -87,14 +87,14 @@
     
     
     
-    <category term="hexo博客" scheme="https://github.com/SunHao-AI/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="https://sunhao-ai.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Markdown" scheme="https://github.com/SunHao-AI/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/"/>
+    <category term="Markdown" scheme="https://sunhao-ai.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/"/>
     
     
-    <category term="hexo博客" scheme="https://github.com/SunHao-AI/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="https://sunhao-ai.github.io/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Markdown" scheme="https://github.com/SunHao-AI/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://sunhao-ai.github.io/tags/Markdown/"/>
     
   </entry>
   
