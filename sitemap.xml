@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunhao-ai.github.io/List/music/index.html</loc>
+    
+    <lastmod>2021-11-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunhao-ai.github.io/posts/0.html</loc>
     
     <lastmod>2021-11-20</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://sunhao-ai.github.io/List/movies/index.html</loc>
-    
-    <lastmod>2021-11-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunhao-ai.github.io/List/music/index.html</loc>
     
     <lastmod>2021-11-20</lastmod>
     
