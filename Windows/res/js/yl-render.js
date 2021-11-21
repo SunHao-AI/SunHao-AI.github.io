@@ -415,8 +415,8 @@ YL.render = function (data) {
         //社区版提示检测
         if (first && !YL.static.serialNumber) {
           YL.onReady(function () {
-            setTimeout(function () {  /* xxxxxxxxxxxxxxxxxxxx */
-              YL.msg("SunHao-AI's Windows", 'Hello，你好，欢迎来到 Windows 小分站！<br/>个人主页：' + '<a style="color: white" target="_blank" href="https://github.com/SunHao-AI/">SunHao-AI </a><br />本网站 UI 由 ' + '<a style="color: white" target="_blank" href="https://ylui.yuri2.cn"> YLUI </a> 强力驱动<p>欢迎使用支付宝扫描二维码对作者进行捐赠~<br/><br/><img style="width: 100%" src="https://z3.ax1x.com/2021/11/20/IOAzTg.jpg"/></p>');
+            setTimeout(function () {  
+              YL.msg("SunHao-AI's Windows", 'Hello，你好，欢迎来到 Windows 小分站！<br/>个人主页：' + '<a style="color: white" target="_blank" href="https://sunhao-ai.github.io/">SunHao-AI </a><br />本网站 UI 由 ' + '<a style="color: white" target="_blank" href="https://ylui.yuri2.cn"> YLUI </a> 强力驱动');
             }, 1500)
           });
         }

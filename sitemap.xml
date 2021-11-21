@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunhao-ai.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunhao-ai.github.io/music/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunhao-ai.github.io/link/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunhao-ai.github.io/comments/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunhao-ai.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunhao-ai.github.io/archives/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunhao-ai.github.io/about/index.html</loc>
+    
+    <lastmod>2021-11-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunhao-ai.github.io/List/music/index.html</loc>
     
     <lastmod>2021-11-20</lastmod>
@@ -51,23 +100,9 @@
   </url>
   
   <url>
-    <loc>https://sunhao-ai.github.io/comments/index.html</loc>
-    
-    <lastmod>2021-08-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://sunhao-ai.github.io/List/gallery/ohmygirl/index.html</loc>
     
     <lastmod>2021-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunhao-ai.github.io/about/index.html</loc>
-    
-    <lastmod>2021-08-02</lastmod>
     
   </url>
   
@@ -78,45 +113,10 @@
     
   </url>
   
-  <url>
-    <loc>https://sunhao-ai.github.io/link/index.html</loc>
-    
-    <lastmod>2021-07-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunhao-ai.github.io/tags/index.html</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunhao-ai.github.io/categories/index.html</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunhao-ai.github.io/music/index.html</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunhao-ai.github.io/archives/index.html</loc>
-    
-    <lastmod>2021-06-27</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://sunhao-ai.github.io/</loc>
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,14 +124,14 @@
   
   <url>
     <loc>https://sunhao-ai.github.io/tags/hexo%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sunhao-ai.github.io/tags/Markdown/</loc>
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,14 +140,14 @@
   
   <url>
     <loc>https://sunhao-ai.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://sunhao-ai.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/</loc>
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
